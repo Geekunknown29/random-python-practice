@@ -1,0 +1,3 @@
+def random():
+   random () 
+random()
